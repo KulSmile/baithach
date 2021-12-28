@@ -1,1 +1,2 @@
-# baithach
+# QLBanHang
+Môn C# ở trường
